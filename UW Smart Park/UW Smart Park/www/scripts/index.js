@@ -13,7 +13,7 @@
         document.addEventListener('resume', onResume.bind(this), false);
 
         document.addEventListener("deviceready", function () {
-            $(window.location).
+            //$(window.location).
             //$('index.html').bind('swipeleft', 'NextPage.html'); //show next hides screen1, shows screen2 
             //$('NextPage.html').bind('swiperight', 'index.html');//show prev hides screen2, shows screen1
 
